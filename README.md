@@ -24,6 +24,12 @@
 
 ---
 
+## 🧠 LeetCode Stats
+
+![LeetCode Badge](https://leetcard.jacoblin.cool/vermavaibhav561?theme=dark&font=Baloo+Bhai&ext=contest)
+
+
+
 # 🌐 Connect with Me
 
 <p align="center">
