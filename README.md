@@ -28,6 +28,8 @@
 
 ![LeetCode Badge](https://leetcard.jacoblin.cool/vermavaibhav561?theme=dark&font=Baloo+Bhai&ext=contest)
 
+![LeetCode Badge](https://leetcard.jacoblin.cool/vermavaibhav561?theme=unicorn)
+
 
 
 # 🌐 Connect with Me
