@@ -26,7 +26,7 @@
 
 ## 🧠 LeetCode Stats
 
-![LeetCode Badge](https://leetcard.jacoblin.cool/vermavaibhav561?theme=dark&font=Baloo+Bhai&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/vermavaibhav561?ext=calendar)
 
 ![LeetCode Badge](https://leetcard.jacoblin.cool/vermavaibhav561?theme=unicorn)
 
